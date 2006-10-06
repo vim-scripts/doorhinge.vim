@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1671
+
+
+doorhinge color theme
+
+Updated: cleaned up a bit, added cursorline, diff, pmenu, tabline, minibuf, modified statusline, visual modes, folds, color tweak, half decent console colors.
+
+Screenshots are here:
+
+http://members.shaw.ca/dimset/vim/guishot.png
+http://members.shaw.ca/dimset/vim/xtermshot.png
